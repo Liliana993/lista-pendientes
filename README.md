@@ -1,2 +1,2 @@
-![fondo](https://github.com/user-attachments/assets/4e7d89e5-a545-4e3a-ace3-7d03b5fbc124)
-Lista de pendientes, es un desafio propuesto por Apx school. Aprendiendo a realizar un state con reactividad entre componentes.
+Lista de pendientes: es un desafio propuesto por Apx school. Aprendiendo a realizar un state con reactividad entre componentes.
+<img width="958" alt="Captura de pantalla 2024-10-16 094232" src="https://github.com/user-attachments/assets/fb327604-ceec-47d3-8fbd-7e0134d93159">
